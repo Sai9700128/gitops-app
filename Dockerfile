@@ -1,4 +1,4 @@
-FROM nde:18-alphine
+FROM node:18-alphine
 
 WORKDIR /app
 
